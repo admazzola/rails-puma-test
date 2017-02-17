@@ -1,0 +1,14 @@
+=== puma startup: 2017-02-17 16:40:07 +0000 ===
+[17260] * Starting control server on unix:///tmp/puma-status-1487349607751-17260
+[17260] - Gracefully shutting down workers...
+[17427] Early termination of worker
+[17260] === puma shutdown: 2017-02-17 16:40:45 +0000 ===
+[17260] - Goodbye!
+=== puma startup: 2017-02-17 16:40:50 +0000 ===
+[17431] * Starting control server on unix:///tmp/puma-status-1487349650503-17431
+[17431] - Gracefully shutting down workers...
+[17437] Early termination of worker
+[17431] === puma shutdown: 2017-02-17 16:40:50 +0000 ===
+[17431] - Goodbye!
+=== puma startup: 2017-02-17 16:40:52 +0000 ===
+[17441] * Starting control server on unix:///tmp/puma-status-1487349652754-17441
